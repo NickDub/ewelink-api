@@ -29,7 +29,7 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "websocket": "^1.0.29",
-    "websocket-as-promised": "^0.10.1"
+    "websocket-as-promised": "^1.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
